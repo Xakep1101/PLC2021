@@ -1,5 +1,5 @@
 ;; code for Task 1.2(a):
-(print (1 + 2))
+(print (+ 1 2))
 ;; the above expression throws an error
 
 ;; code for Task 1.2(b):
